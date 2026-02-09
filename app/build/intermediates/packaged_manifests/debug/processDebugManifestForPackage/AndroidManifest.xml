@@ -32,6 +32,7 @@
         android:theme="@style/Theme.VisionAndroid" >
         <activity
             android:name="com.vision.app.MainActivity"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize"
             android:exported="true"
             android:theme="@style/Theme.VisionAndroid" >
             <intent-filter>

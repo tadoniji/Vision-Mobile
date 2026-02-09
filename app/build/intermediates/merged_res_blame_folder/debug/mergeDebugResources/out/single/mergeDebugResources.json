@@ -1,38 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\mipmap_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\mipmap\\ic_launcher_round.xml"
+        "merged": "com.vision.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "com.vision.app-main-55:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.vision.app-debug-52:/mipmap_ic_launcher_round.xml.flat",
-        "source": "com.vision.app-main-54:/mipmap/ic_launcher_round.xml"
+        "merged": "com.vision.app-debug-53:/mipmap_ic_launcher.xml.flat",
+        "source": "com.vision.app-main-55:/mipmap/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.vision.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "com.vision.app-main-55:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.vision.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.vision.app-main-55:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\xml\\backup_rules.xml"
+        "merged": "com.vision.app-debug-53:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.vision.app-main-55:/mipmap/ic_launcher_round.xml"
     },
     {
-        "merged": "com.vision.app-debug-52:/mipmap_ic_launcher.xml.flat",
-        "source": "com.vision.app-main-54:/mipmap/ic_launcher.xml"
+        "merged": "com.vision.app-debug-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.vision.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-debug-52:\\mipmap_ic_launcher.xml.flat",
-        "source": "C:\\Users\\thiba\\.gradle\\daemon\\8.13\\com.vision.app-main-54:\\mipmap\\ic_launcher.xml"
+        "merged": "com.vision.app-debug-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.vision.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

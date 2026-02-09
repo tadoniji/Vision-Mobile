@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vision.app-mergeDebugResources-50:/values-pl/values-pl.xml",
+            "outputFile": "com.vision.app-mergeDebugResources-51:/values-pl/values-pl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\db5be63c3db5966f3b26ec7781a55377\\transformed\\jetified-ui-release\\res\\values-pl\\values-pl.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,285,394,499,576,653,746,836,919,990,1060,1143,1230,1302,1384,1452",
-                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
-                        "endOffsets": "195,280,389,494,571,648,741,831,914,985,1055,1138,1225,1297,1379,1447,1567"
-                    },
-                    "to": {
-                        "startLines": "30,31,33,34,36,89,90,91,92,93,94,95,96,97,99,100,101",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1731,1826,1988,2097,2274,6308,6385,6478,6568,6651,6722,6792,6875,6962,7135,7217,7285",
-                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
-                        "endOffsets": "1821,1906,2092,2197,2346,6380,6473,6563,6646,6717,6787,6870,6957,7029,7212,7280,7400"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\bee7cc9f4b238a45474757cd5d3bbc00\\transformed\\jetified-media3-exoplayer-1.2.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\6f737639c7e05ec7c0c70d85e01f7c1a\\transformed\\jetified-media3-exoplayer-1.2.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -38,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\00462d1119eb6ab6f9aeb5fa222eadd0\\transformed\\jetified-material3-1.0.0\\res\\values-pl\\values-pl.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,132,204",
-                        "endColumns": "76,71,77",
-                        "endOffsets": "127,199,277"
-                    },
-                    "to": {
-                        "startLines": "32,35,88",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "1911,2202,6230",
-                        "endColumns": "76,71,77",
-                        "endOffsets": "1983,2269,6303"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\c2191cd8642cf9c6b52e09b4fefef89d\\transformed\\core-1.12.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\6b3f8ce83b50d060ec5b2944590fe6c6\\transformed\\core-1.12.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -72,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\5742611e21b169250d3d2e0f3af4715f\\transformed\\jetified-media3-ui-1.2.0\\res\\values-pl\\values-pl.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\b4bfd7d1f72285458b5f2990eee6caca\\transformed\\jetified-media3-ui-1.2.0\\res\\values-pl\\values-pl.xml",
                     "from": {
                         "startLines": "2,11,17,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -88,6 +54,40 @@
                         "endLines": "10,16,22,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87",
                         "endColumns": "17,12,12,77,77,82,88,88,82,66,93,93,68,65,64,71,126,122,122,75,80,72,82,96,96,67,63,52,57,47,60,72,65,63,76,66,57,66,64,64,51,66,90,90,54",
                         "endOffsets": "332,667,989,2424,2502,2585,2674,2763,2846,2913,3007,3101,3170,3236,3301,3373,3500,3623,3746,3822,3903,3976,4059,4156,4253,4321,4385,5100,5158,5206,5267,5340,5406,5470,5547,5614,5672,5739,5804,5869,5921,5988,6079,6170,6225"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\decad77e97df89f8d37bc8477f9a3c46\\transformed\\jetified-material3-1.0.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,132,204",
+                        "endColumns": "76,71,77",
+                        "endOffsets": "127,199,277"
+                    },
+                    "to": {
+                        "startLines": "32,35,88",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1911,2202,6230",
+                        "endColumns": "76,71,77",
+                        "endOffsets": "1983,2269,6303"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\1d7f73c8af51f0609e3516032dec5e9a\\transformed\\jetified-ui-release\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,285,394,499,576,653,746,836,919,990,1060,1143,1230,1302,1384,1452",
+                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
+                        "endOffsets": "195,280,389,494,571,648,741,831,914,985,1055,1138,1225,1297,1379,1447,1567"
+                    },
+                    "to": {
+                        "startLines": "30,31,33,34,36,89,90,91,92,93,94,95,96,97,99,100,101",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1731,1826,1988,2097,2274,6308,6385,6478,6568,6651,6722,6792,6875,6962,7135,7217,7285",
+                        "endColumns": "94,84,108,104,76,76,92,89,82,70,69,82,86,71,81,67,119",
+                        "endOffsets": "1821,1906,2092,2197,2346,6380,6473,6563,6646,6717,6787,6870,6957,7029,7212,7280,7400"
                     }
                 }
             ]

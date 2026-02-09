@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vision.app-mergeDebugResources-50:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.vision.app-mergeDebugResources-51:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\c2191cd8642cf9c6b52e09b4fefef89d\\transformed\\core-1.12.0\\res\\values-en-rCA\\values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,253,352,451,555,657,773",
-                        "endColumns": "95,101,98,98,103,101,115,100",
-                        "endOffsets": "146,248,347,446,550,652,768,869"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,303,402,501,605,707,2211",
-                        "endColumns": "95,101,98,98,103,101,115,100",
-                        "endOffsets": "196,298,397,496,600,702,818,2307"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\db5be63c3db5966f3b26ec7781a55377\\transformed\\jetified-ui-release\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\1d7f73c8af51f0609e3516032dec5e9a\\transformed\\jetified-ui-release\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\00462d1119eb6ab6f9aeb5fa222eadd0\\transformed\\jetified-material3-1.0.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\decad77e97df89f8d37bc8477f9a3c46\\transformed\\jetified-material3-1.0.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "997,1268,1428",
                         "endColumns": "77,73,75",
                         "endOffsets": "1070,1337,1499"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\6b3f8ce83b50d060ec5b2944590fe6c6\\transformed\\core-1.12.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,657,773",
+                        "endColumns": "95,101,98,98,103,101,115,100",
+                        "endOffsets": "146,248,347,446,550,652,768,869"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,303,402,501,605,707,2211",
+                        "endColumns": "95,101,98,98,103,101,115,100",
+                        "endOffsets": "196,298,397,496,600,702,818,2307"
                     }
                 }
             ]

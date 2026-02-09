@@ -1,61 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.vision.app-mergeDebugResources-50:/values-hr/values-hr.xml",
+            "outputFile": "com.vision.app-mergeDebugResources-51:/values-hr/values-hr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\c2191cd8642cf9c6b52e09b4fefef89d\\transformed\\core-1.12.0\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,260,357,456,560,664,781",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "148,255,352,451,555,659,776,877"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,96",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "914,1012,1119,1216,1315,1419,1523,6990",
-                        "endColumns": "97,106,96,98,103,103,116,100",
-                        "endOffsets": "1007,1114,1211,1310,1414,1518,1635,7086"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\db5be63c3db5966f3b26ec7781a55377\\transformed\\jetified-ui-release\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,210,297,391,490,580,659,752,847,932,1004,1075,1156,1242,1315,1394,1464",
-                        "endColumns": "104,86,93,98,89,78,92,94,84,71,70,80,85,72,78,69,117",
-                        "endOffsets": "205,292,386,485,575,654,747,842,927,999,1070,1151,1237,1310,1389,1459,1577"
-                    },
-                    "to": {
-                        "startLines": "28,29,31,32,34,87,88,89,90,91,92,93,94,95,97,98,99",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1640,1745,1907,2001,2181,6255,6334,6427,6522,6607,6679,6750,6831,6917,7091,7170,7240",
-                        "endColumns": "104,86,93,98,89,78,92,94,84,71,70,80,85,72,78,69,117",
-                        "endOffsets": "1740,1827,1996,2095,2266,6329,6422,6517,6602,6674,6745,6826,6912,6985,7165,7235,7353"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\00462d1119eb6ab6f9aeb5fa222eadd0\\transformed\\jetified-material3-1.0.0\\res\\values-hr\\values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,130,211",
-                        "endColumns": "74,80,76",
-                        "endOffsets": "125,206,283"
-                    },
-                    "to": {
-                        "startLines": "30,33,86",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "1832,2100,6178",
-                        "endColumns": "74,80,76",
-                        "endOffsets": "1902,2176,6250"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\bee7cc9f4b238a45474757cd5d3bbc00\\transformed\\jetified-media3-exoplayer-1.2.0\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\6f737639c7e05ec7c0c70d85e01f7c1a\\transformed\\jetified-media3-exoplayer-1.2.0\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -72,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\thiba\\.gradle\\caches\\8.13\\transforms\\5742611e21b169250d3d2e0f3af4715f\\transformed\\jetified-media3-ui-1.2.0\\res\\values-hr\\values-hr.xml",
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\b4bfd7d1f72285458b5f2990eee6caca\\transformed\\jetified-media3-ui-1.2.0\\res\\values-hr\\values-hr.xml",
                     "from": {
                         "startLines": "2,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -88,6 +37,57 @@
                         "endLines": "10,15,20,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85",
                         "endColumns": "17,12,12,80,81,79,106,106,69,66,90,91,64,70,62,71,118,123,120,67,83,70,70,103,104,66,64,52,57,47,60,73,78,75,73,63,58,70,64,70,51,62,84,84,55",
                         "endOffsets": "340,630,909,2347,2429,2509,2616,2723,2793,2860,2951,3043,3108,3179,3242,3314,3433,3557,3678,3746,3830,3901,3972,4076,4181,4248,4313,5032,5090,5138,5199,5273,5352,5428,5502,5566,5625,5696,5761,5832,5884,5947,6032,6117,6173"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\1d7f73c8af51f0609e3516032dec5e9a\\transformed\\jetified-ui-release\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,297,391,490,580,659,752,847,932,1004,1075,1156,1242,1315,1394,1464",
+                        "endColumns": "104,86,93,98,89,78,92,94,84,71,70,80,85,72,78,69,117",
+                        "endOffsets": "205,292,386,485,575,654,747,842,927,999,1070,1151,1237,1310,1389,1459,1577"
+                    },
+                    "to": {
+                        "startLines": "28,29,31,32,34,87,88,89,90,91,92,93,94,95,97,98,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1640,1745,1907,2001,2181,6255,6334,6427,6522,6607,6679,6750,6831,6917,7091,7170,7240",
+                        "endColumns": "104,86,93,98,89,78,92,94,84,71,70,80,85,72,78,69,117",
+                        "endOffsets": "1740,1827,1996,2095,2266,6329,6422,6517,6602,6674,6745,6826,6912,6985,7165,7235,7353"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\6b3f8ce83b50d060ec5b2944590fe6c6\\transformed\\core-1.12.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,357,456,560,664,781",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "148,255,352,451,555,659,776,877"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,96",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "914,1012,1119,1216,1315,1419,1523,6990",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "1007,1114,1211,1310,1414,1518,1635,7086"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\thiba\\.gradle\\caches\\9.0-milestone-1\\transforms\\decad77e97df89f8d37bc8477f9a3c46\\transformed\\jetified-material3-1.0.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,211",
+                        "endColumns": "74,80,76",
+                        "endOffsets": "125,206,283"
+                    },
+                    "to": {
+                        "startLines": "30,33,86",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1832,2100,6178",
+                        "endColumns": "74,80,76",
+                        "endOffsets": "1902,2176,6250"
                     }
                 }
             ]
